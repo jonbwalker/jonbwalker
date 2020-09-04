@@ -21,10 +21,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonbwalker&show_icons=true" alt="jonbwalker" /></p>
 
 <p align="center">
-<a href="https://codepen.io/@jonwalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@jonwalker" height="30" width="30" /></a>
-<a href="https://twitter.com/@jonnywalker09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@jonnywalker09" height="30" width="30" /></a>
+<a href="https://codepen.io/JonWalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jonwalker" height="30" width="30" /></a>
+<a href="https://twitter.com/@JonnyWalker9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@jonnywalker9" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/jonathanbwalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonathanbwalker" height="30" width="30" /></a>
-<a href="https://instagram.com/@jonwalkerca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@jonwalkerca" height="30" width="30" /></a>
+<a href="https://www.instagram.com/jonbwalkerca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@jonbwalkerca" height="30" width="30" /></a>
 </p>
 <!--
 **jonbwalker/jonbwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
