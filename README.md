@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm jon walker</h1>
-<h3 align="center">A curious frontend developer in San Diego 🌊</h3>
+<h3 align="center">A curious JavaScript Engineer in San Diego 🌊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonbwalker" alt="jonbwalker" /> </p>
 
