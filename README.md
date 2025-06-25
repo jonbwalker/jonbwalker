@@ -16,13 +16,12 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> -->
 </p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonbwalker&layout=compact&hide=html" alt="jonbwalker" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonbwalker&show_icons=true" alt="jonbwalker" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonbwalker&show_icons=true" alt="jonbwalker" /></p>-->
 
 <p align="center">
-<a href="https://codepen.io/JonWalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jonwalker" height="30" width="30" /></a>
-<a href="https://twitter.com/@JonnyWalker9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@jonnywalker9" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/jonathanbwalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonathanbwalker" height="30" width="30" /></a>
-<a href="https://www.instagram.com/jonbwalkerca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@jonbwalkerca" height="30" width="30" /></a>
+  <a href="https://codepen.io/JonWalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jonwalker" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/jonathanbwalker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jonathanbwalker" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/jonbwalkerca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@jonbwalkerca" height="30" width="30" /></a>
 </p>
 <!--
 **jonbwalker/jonbwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
