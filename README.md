@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonbwalker" alt="jonbwalker" /> </p>
 
-- 🔭 I’m currently working on [sendlane's SaaS email marketing platoform](https://www.sendlane.com/)
+- 🔭 I’m currently working at [Mudflap](https://www.mudflapinc.com/)
 
 - 🌱 I’m currently using **Vue.js**
 
